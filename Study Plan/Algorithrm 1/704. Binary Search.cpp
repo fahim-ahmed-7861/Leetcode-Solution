@@ -1,3 +1,5 @@
+// problem link : https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i
+
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
